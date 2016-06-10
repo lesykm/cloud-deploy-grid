@@ -18,5 +18,3 @@
     - "{{ common_rpm_packages }}"
   tags:
     - common
-
-- include: centos_golang.yml
